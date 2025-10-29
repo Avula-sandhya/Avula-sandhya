@@ -47,10 +47,4 @@ NLP preprocessing (tokenization, embeddings) with a CNN for sentiment and catego
 
 ---
 
-## Stats (optional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Avula-sandhya&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avula-sandhya&layout=compact" height="150" />
-</p>
 
-<!-- Keep this repo name EXACTLY your username so this README shows on your profile -->
